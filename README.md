@@ -1,21 +1,21 @@
 # convert-to-pdf
 
-##Renames Files without Extension to Include '.pdf' extension
+## Renames Files without Extension to Include '.pdf' extension
 
-##**Local-Location on Bobby-Laptop...**
-`%USERPROFILE%\Programming-Local\convert-to-pdf`
+## **Local-Location on Bobby-Laptop...**
 
-//download node_modules `npm install`
+`%USERPROFILE%\Programming-Local\convert-to-pdf` \_
+
+//download node*modules * `npm install` \_
 
 ## UPDATE DIRECTORY LOCATION IN INDEX.JS
 
 `node index.js`
 
-##**UPLOAD TO GITHUB** `git add .` `git commit -m "message"`
-`git push -u origin main`
+## **UPLOAD TO GITHUB**
 
-##**PULL REQUEST** `git pull origin main`
+`git add .` _ `git commit -m "message"` _ `git push -u origin main`
 
-```
+## **PULL REQUEST**
 
-```
+`git pull origin main`
