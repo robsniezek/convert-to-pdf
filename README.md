@@ -7,7 +7,7 @@
 
 //download node_modules `npm install`
 
-## _UPDATE DIRECTORY LOCATION IN INDEX.JS_
+## UPDATE DIRECTORY LOCATION IN INDEX.JS
 
 `node index.js`
 
