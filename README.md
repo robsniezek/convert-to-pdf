@@ -6,7 +6,7 @@
 
 `%USERPROFILE%\Programming-Local\convert-to-pdf` \_
 
-//download node*modules * `npm install` \_
+`//download node\_modules` \_ `npm install`
 
 ## UPDATE DIRECTORY LOCATION IN INDEX.JS
 
